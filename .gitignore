@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.ENV/
+.pyenv/
+.venv.bak/
+.venv_backup/
+
+# Vercel specific files
+.vercel/
+
+# VS Code settings folder
+.vscode/
+
+# Local environment variables
+.env
+.env.*
+
+# macOS specific files
+.DS_Store
+
+# Log files
+*.log
+
+# Cache
+.cache/
+
+# Python eggs
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
